@@ -21,7 +21,8 @@
 
 ###
 
-<p align="left">I'm Steven Underwood from Texas, USA<br><br>- 🔭 I’m working as a Full Stack Software Developer<br>- 📚 I'm currently learning Javascript<br>- ⚡ In my free time I race anything from simulators to karts or learn new technologies.</p>
+<p align="left">I'm Steven Underwood from Texas, USA<br><br>- 🔭 I am a Software Engineer with leadership experience skilled in team building, process implementation, and business development. I bring a powerful blend of technical experience and strategic leadership to deliver exceptional results. With a proven track record of successfully managing cross-functional teams and driving innovation, I am dedicated to creating cutting-edge software solutions that propel businesses forward.
+</p>
 
 ###
 
