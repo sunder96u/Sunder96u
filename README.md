@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/C4E03AQFRQSlFGChD7A/profile-displayphoto-shrink_800_800/0/1531143037312?e=1694044800&v=beta&t=yzoDeZdSAPDp_4-fykz494Lv_ukjZDoPsVvH38gzCpI"  />
-</div>
+
 
 ###
 
@@ -21,7 +19,30 @@
 
 ###
 
-<p align="left">I'm Steven Underwood from Texas, USA<br><br>- 🔭 I am a Software Engineer with leadership experience skilled in team building, process implementation, and business development. I bring a powerful blend of technical experience and strategic leadership to deliver exceptional results. With a proven track record of successfully managing cross-functional teams and driving innovation, I am dedicated to creating cutting-edge software solutions that propel businesses forward.
+<p align="left">
+👋 I'm Steven Underwood from Texas, USA.
+
+🔭 Cybersecurity Specialist | Software Engineer |  Leader
+
+I bring a potent mix of technical expertise and strategic leadership to the table, with a focus on creating robust cybersecurity solutions. My background in software engineering equips me with a deep understanding of technology stacks and development frameworks, while my recent transition into cybersecurity has sharpened my skills in threat assessment, penetration testing, and risk mitigation.
+
+What I Do:
+
+🛡️ Cybersecurity Specialist: Orchestrating offensive and defensive strategies to safeguard digital assets and mitigate cyber threats.</br>
+💻 Software Engineering: Crafting high-quality software solutions with an emphasis on security and performance.</br>
+🚀 Strategic Leadership: Leading cross-functional teams to drive innovation and achieve organizational objectives.</br>
+
+Highlights:
+
+🎯 Penetration Testing: Identifying and exploiting vulnerabilities to assess and enhance organizational security postures.</br>
+🛠️ Threat Assessment: Analyzing emerging cyber threats and devising proactive measures to mitigate risks.</br>
+🌐 Web Development: Building secure and scalable web applications using modern development frameworks.</br>
+📈 Business Development: Collaborating with stakeholders to align technical solutions with business goals and objectives.</br>
+I am passionate about leveraging my technical acumen and cybersecurity expertise to tackle complex challenges and drive meaningful impact. Let's connect and collaborate on exciting projects that push the boundaries of innovation and security.
+
+Feel free to reach out via GitHub or connect with me on LinkedIn!
+
+#Cybersecurity #SoftwareEngineering #Leadership #Innovation
 </p>
 
 ###
@@ -31,6 +52,8 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
@@ -61,14 +84,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
-    <img width="12" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
